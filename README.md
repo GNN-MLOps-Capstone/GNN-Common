@@ -52,7 +52,7 @@ root                                    # Root directory
 │   │   ├── /logger.py                  # Functions for log file (Example)
 │   │   └── /utils.py                   # Functions for project (Example)
 │   │    
-│   ├── /.env                           # Environment for project
+│   ├── /.env                           # Environment variable for project
 │   ├── /README.md                      # This file
 │   ├── /run_1_crawling_task.py         # First task (Example)
 │   ├── /run_2_silter_layer_task.py     # Second task (Example)
