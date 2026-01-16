@@ -1,3 +1,4 @@
+```
 root                                    # Root directory
 │
 ├── /airflow                            # Docker configs for Airflow
@@ -61,3 +62,4 @@ root                                    # Root directory
 │   └── /run_6_inference_task.py        # Sixth task (Example)
 │    
 └── /docker-compose.yaml                # Service for Docker
+```
